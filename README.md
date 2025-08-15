@@ -30,7 +30,7 @@ Customize the placeholders below to match your skills, projects, and links.
 - 🛠️ I like working on: RAG systems, ML APIs and services, data pipelines, MLOps
 - 🌱 Learning: production LLM evaluation, vector DB internals, inference optimization
 - 💼 Open to: full-time or contract
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-noorx/) · [CV](https://github.com/ahmednoorx/curriculens/blob/main/Ahmed%20Noor%20-%20CV.md)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-noorx/)
 - ⚡ Fun fact: I enjoy turning notebooks into reproducible, documented services.
 
 ---
@@ -110,8 +110,6 @@ Customize the placeholders below to match your skills, projects, and links.
 ## Get in touch
 
 - LinkedIn: [linkedin.com/in/ahmed-noorx](https://www.linkedin.com/in/ahmed-noorx/)
-- CV: [Ahmed Noor - CV](https://github.com/ahmednoorx/curriculens/blob/main/Ahmed%20Noor%20-%20CV.md)
-- Portfolio index: [PROJECTS_OVERVIEW.md](https://github.com/ahmednoorx/curriculens/blob/main/PROJECTS_OVERVIEW.md)
 
 <!-- Optional: Add a Calendly link for quick chats. -->
 
